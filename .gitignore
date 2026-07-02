@@ -1,0 +1,18 @@
+# Dependencies & build tooling
+node_modules/
+package.json
+package-lock.json
+
+# Generated / local-only files
+driveflow-design/assignment-print.html
+driveflow-design/temp.html
+driveflow-design/export-pdf.mjs
+driveflow-design/export-screenshots.mjs
+setup-github-history.sh
+
+# Personal submission checklist (not for repo)
+SUBMISSION-GUIDE.md
+
+# OS
+.DS_Store
+Thumbs.db
